@@ -67,7 +67,3 @@ Each repository (e.g., `user-service`, `brand-service`) should follow a similar 
   └── app.js
 /config
 package.json
-
-
-# Structure
-https://documenter.getpostman.com/view/13912490/2sAXxS8rZ5
