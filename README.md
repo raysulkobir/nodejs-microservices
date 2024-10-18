@@ -12,6 +12,9 @@ This repository serves as the umbrella project for managing multiple Node.js mic
 
 ---
 
+**API Documentation**:  
+For API documentation, refer to the [Postman Documentation](https://documenter.getpostman.com/view/13912490/2sAXxS8rZ5).
+
 # user-service
 
 **Description**:  
@@ -64,3 +67,7 @@ Each repository (e.g., `user-service`, `brand-service`) should follow a similar 
   └── app.js
 /config
 package.json
+
+
+# Structure
+https://documenter.getpostman.com/view/13912490/2sAXxS8rZ5
